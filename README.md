@@ -17,3 +17,11 @@
 - Les pubs
 - Faire un modèle en partie OpenSource: "base" et "extension" 
 - Retarder l'ouverture du code source et le révéler uniquement après que le montant soit atteint, soit par des dons ou des ventes (comme Bender l'a fait).
+
+						
+#### ```Qui est Steve Wozniak ?```
+Look at this !<https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Steve_Wozniak.jpg/220px-Steve_Wozniak.jpg>
+
+Né le 11 août 1950 à San José, aussi appelé Woz, Steve Wozniak est un informaticien, professeur d'informatique et électronicien américain. Avec Steve JOBS et Ronald Wayne, il est Cofondateur de la société Apple Computeur et concepteur des premiers Apple. Il est un des pionniers de l'industrie micro-informatique.
+
+Source : <https://fr.wikipedia.org/wiki/Steve_Wozniak>
