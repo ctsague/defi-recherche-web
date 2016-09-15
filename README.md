@@ -1,4 +1,4 @@
-                                defi-recherche-web
+                               		 defi-recherche-web
 
 ##### ```Trois entreprises qui développent des solutions Free & OpenSource ```
 
@@ -26,7 +26,7 @@ Né le 11 août 1950 à San José, aussi appelé Woz, Steve Wozniak est un infor
 
 Source : <https://fr.wikipedia.org/wiki/Steve_Wozniak>
 
-                                
+				
 ####  ```Ce qu'il faut savoir sur les adresses IP ```
 
 Une adresse IP (avec IP pour Internet Protocol) est un numéro d’identification attribué de façon permanente ou provisoire à chaque appareil connecté à un réseau informatique utilisant l’Internet Protocol. Il existe des fixes et des dynamiques, des locales et des publiques.
